@@ -6,7 +6,7 @@ You can create a Markov model of all the poems of your selected poets, and then 
 I've created a Markov model using the poems of **Ady Endre and József Attila**. It's like Ady Endre and József Attila had a secret love child!
 
 <p align="center">
-  <img src="adyjozsefattila.png" alt="plot"/>
+  <img src="adyjozsefattila.png" alt="Ady Attila"/>
 </p>
 
 Sample generated poems:
