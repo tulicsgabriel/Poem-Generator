@@ -25,4 +25,4 @@ Enjoy!
 - Use spell correction
 - Implement additional rhyme formulas
 - Use bigger corpus from additional sources
-- Could use more sofisticated NLP model instead of a Markov Model
+- Could use more sophisticated NLP model instead of a Markov Model
