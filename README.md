@@ -13,20 +13,11 @@ Sample generated poems:
 
 > egy ki eget mér és bólint<br /> kín löki játsszék odakint<br /> egy nagyon tiszta vízcseppet<br /> vigyázz beloled is lehet
 
-> rászáll nehány szép éjbogár
-nem volt erkölcsi példatár
-mit mondjak most hogy ég veled
-törje kapa a tenyered
+> rászáll nehány szép éjbogár<br /> nem volt erkölcsi példatár<br /> mit mondjak most hogy ég veled<br /> törje kapa a tenyered
 
-> zászlókkal zenékkel megyek
-viszontlátome ot egek
-s kérlelték vének és papok
-nem szeretnek a gazdagok
+> zászlókkal zenékkel megyek <br /> viszontlátome ot egek<br /> s kérlelték vének és papok<br /> nem szeretnek a gazdagok
 
-> köröskörül vastorökül
-melybe háziur települ
-egyszer ha nem vigyázna rám
-s eldobtad ahogy az apám
+> köröskörül vastorökül<br /> melybe háziur települ<br /> egyszer ha nem vigyázna rám<br /> s eldobtad ahogy az apám
 
 Enjoy!
 
@@ -34,3 +25,4 @@ Enjoy!
 - Use spell correction
 - Implement additional rhyme formulas
 - Use bigger corpus from additional sources
+- Could use more sofisticated NLP model instead of a Markov Model
