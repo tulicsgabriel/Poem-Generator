@@ -11,7 +11,7 @@ I've created a Markov model using the poems of **Ady Endre and József Attila**.
 
 Sample generated poems:
 
-> egy ki eget mér és bólint\ kín löki játsszék odakint \ egy nagyon tiszta vízcseppet \ vigyázz beloled is lehet
+> egy ki eget mér és bólint<br /> kín löki játsszék odakint<br /> egy nagyon tiszta vízcseppet<br /> vigyázz beloled is lehet
 
 > rászáll nehány szép éjbogár
 nem volt erkölcsi példatár
